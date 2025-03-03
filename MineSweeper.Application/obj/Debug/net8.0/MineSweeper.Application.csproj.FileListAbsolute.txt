@@ -1,0 +1,16 @@
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\bin\Debug\net8.0\MineSweeper.Application.deps.json
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\bin\Debug\net8.0\MineSweeper.Application.dll
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\bin\Debug\net8.0\MineSweeper.Application.pdb
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\bin\Debug\net8.0\MineSweeper.Data.dll
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\bin\Debug\net8.0\MineSweeper.Data.pdb
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\obj\Debug\net8.0\MineSweeper.Application.csproj.AssemblyReference.cache
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\obj\Debug\net8.0\MineSweeper.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\obj\Debug\net8.0\MineSweeper.Application.AssemblyInfoInputs.cache
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\obj\Debug\net8.0\MineSweeper.Application.AssemblyInfo.cs
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\obj\Debug\net8.0\MineSweeper.Application.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\obj\Debug\net8.0\MineSweeper.Application.sourcelink.json
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\obj\Debug\net8.0\MineSwee.8853BE16.Up2Date
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\obj\Debug\net8.0\MineSweeper.Application.dll
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\obj\Debug\net8.0\refint\MineSweeper.Application.dll
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\obj\Debug\net8.0\MineSweeper.Application.pdb
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Application\obj\Debug\net8.0\ref\MineSweeper.Application.dll

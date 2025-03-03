@@ -1,0 +1,13 @@
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\bin\Debug\net8.0\MineSweeper.Data.deps.json
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\bin\Debug\net8.0\MineSweeper.Data.dll
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\bin\Debug\net8.0\MineSweeper.Data.pdb
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\obj\Debug\net8.0\MineSweeper.Data.csproj.AssemblyReference.cache
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\obj\Debug\net8.0\MineSweeper.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\obj\Debug\net8.0\MineSweeper.Data.AssemblyInfoInputs.cache
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\obj\Debug\net8.0\MineSweeper.Data.AssemblyInfo.cs
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\obj\Debug\net8.0\MineSweeper.Data.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\obj\Debug\net8.0\MineSweeper.Data.sourcelink.json
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\obj\Debug\net8.0\MineSweeper.Data.dll
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\obj\Debug\net8.0\refint\MineSweeper.Data.dll
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\obj\Debug\net8.0\MineSweeper.Data.pdb
+C:\Users\Egor\Documents\MineSweeper\MineSweeper.Data\obj\Debug\net8.0\ref\MineSweeper.Data.dll
